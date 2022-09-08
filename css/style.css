@@ -131,9 +131,9 @@ h6 {
   text-align: center;
   padding: 0;
   margin: 0;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 500;
-  color: #e3e3e6;
+  color: #ffffff;
 }
 
 .section-with-bg {
@@ -684,7 +684,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about h3 {
-  font-size: 18px;
+  font-size: 28px;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 10px;
@@ -750,7 +750,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details a:hover {
-  color: #f82249;
+  color: #f82249
 }
 
 #speakers .speaker:hover .details {
@@ -977,7 +977,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #hotels {
   padding: 60px 0;
-  background: rgba(62, 15, 66, 0.959);
   background: url("../img/intro-bg.jpg");
   background-size: cover;
   overflow: hidden;
@@ -1108,7 +1107,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #faq #faq-list li {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid rgb(255, 254, 254);
 }
 
 #faq #faq-list a {
